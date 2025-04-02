@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estudando vários tópicos, focando em Java e JavaScript<br> </p>
+<p align="left">📚 Estudante de Análise e Desenvolvimento de Sistemas, atualmente focando em Java e JavaScript<br> </p>
 
 ###
 

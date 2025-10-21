@@ -1,14 +1,4 @@
-<h1 align="left">Bom Dia! 🌒</h1>
-
-###
-
-<p align="left">Meu nome é Wolfgang</p>
-
-###
-
-###
-
-<p align="left">📚 Estudante de Análise e Desenvolvimento de Sistemas, atualmente focando em Java e JavaScript<br> </p>
+<p align="left"> Estudante de Análise e Desenvolvimento de Sistemas<br> </p>
 
 ###
 
